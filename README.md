@@ -17,11 +17,12 @@ Copy all files to your computer
 # Launch plugin:
 Open the .xlsm file in Excel
 
-It contains macros; so allow Excel on opening to use macros in excel.
+It contains macros; so allow Excel on opening to use macros.
 
+# Usage:
 There's just one big start button. Press it and a finder/explorer will pop up for loading the .midi file.
 This could be done in a few seconds up to a minute, depending on the size of the file.
-While processing the screen could be empty.
+While the macro is processing the screen could be empty.
 Let it run, it will show everything at once.
 
 # Features:
