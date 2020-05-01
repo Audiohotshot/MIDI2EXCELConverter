@@ -15,8 +15,9 @@ can then be easily used in other calculations for researchpurposes.
 Copy all files to your computer 
 
 # Launch plugin:
-Open the .xlsm file.
-It contains macros; so allow to use macros in excel.
+Open the .xlsm file in Excel
+
+It contains macros; so allow Excel on opening to use macros in excel.
 
 There's just one big start button. Press it and a finder/explorer will pop up for loading the .midi file.
 This could be done in a few seconds up to a minute, depending on the size of the file.
